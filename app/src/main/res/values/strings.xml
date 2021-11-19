@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Project UTS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dashboard">Main Menu</string>
+    <string name="film">List Films</string>
+    <string name="about">About</string>
+    <string name="setting">Set Language</string>
+    <string name="nama">Ilham Muttaqien</string>
+    <string name="nim">19.11.3027</string>
+    <string name="madeby">This app is made by:</string>
+    <string name="description">This application is useful for viewing a list of the latest movies based on the API. Film details consist of film title, film cover, rating, overview, release date, and language</string>
+
+    <string name="text_release">Release Date: </string>
+    <string name="text_overview">Overview Film: </string>
+    <string name="text_rating">Movie Rating: </string>
+    <string name="text_lang">Language: </string>
+</resources>

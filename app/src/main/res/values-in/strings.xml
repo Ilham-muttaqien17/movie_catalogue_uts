@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project UTS</string>
+    <string name="dashboard">Menu Utama</string>
+    <string name="film">Daftar Film</string>
+    <string name="about">Tentang</string>
+    <string name="setting">Setel Bahasa</string>
+    <string name="nama">Ilham Muttaqien</string>
+    <string name="nim">19.11.3027</string>
+    <string name="madeby">Aplikasi ini dibuat oleh:</string>
+    <string name="description">Aplikasi ini berguna untuk melihat daftar film terbaru berdasarkan API. Detail film terdiri dari judul film, sampul film, peringkat, ikhtisar, tanggal rilis, dan bahasa</string>
+
+    <string name="text_release">Tanggal Rilis: </string>
+    <string name="text_overview">Ringkasan Film: </string>
+    <string name="text_rating">Rating Film: </string>
+    <string name="text_lang">Bahasa: </string>
+</resources>
